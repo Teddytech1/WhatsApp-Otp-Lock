@@ -2,6 +2,7 @@
 
  Otp Lock is a python based script which is officially made for termux users and from this tool you can spread whatsApp otp lock by just sending number. This tool works on both rooted Android device and Non-rooted Android device.
 Warning 🚦 This Tool Formates (WhatsApp Otp Lock) So think and Use.
+created by Teddy
 
 ## AVAILABLE ON :
 
@@ -49,14 +50,15 @@ Warning 🚦 This Tool Formates (WhatsApp Otp Lock) So think and Use.
 
 ``(Tap To Redirect)``
 
-[![Github](https://img.shields.io/badge/Instagram-INSTAGroup-blue?style=for-the-badge&logo=instagram)](https://ig.me/j/AbZC3b_u344hDJtI)
-[![Github](https://img.shields.io/badge/Instagram-INSTAPAGE-blue?style=for-the-badge&logo=instagram)](https://instagram.com/rach.itgamer999)
-[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://t.me/+GrRkWxyiROs4ZGU1)
+[![Github](https://img.shields.io/badge/Instagram-INSTAGroup-blue?style=for-the-badge&logo=instagram)](https://ig.me/kibet_langat_)
+[![Github](https://img.shields.io/badge/Instagram-INSTAPAGE-blue?style=for-the-badge&logo=instagram)](https://instagram.com/Kibet_langat_)
+[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://t.me/free_net_zone)
 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
 
-``© KRISHNA 🇮🇳``
+``© Teddy_md``
 
 
 ## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
+credits: ©Teddy_md***
